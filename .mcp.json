@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "inki": {
+      "type": "http",
+      "url": "https://inki.so/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "inki",
+  "interface": {
+    "displayName": "Inki"
+  },
+  "plugins": [
+    {
+      "name": "inki",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "inki",
+  "version": "1.0.0",
+  "description": "Write in Inki from your coding agent: move a draft into an Inki note, run Inki's check, fix what you agree with, and keep going after you edit the note in Inki.",
+  "author": {
+    "name": "n, Inc.",
+    "email": "contact@inki.so",
+    "url": "https://inki.so"
+  },
+  "homepage": "https://inki.so",
+  "repository": "https://github.com/n-inc/inki-plugin",
+  "license": "MIT",
+  "keywords": ["writing", "notes", "editing", "proofreading"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Inki",
+        "shortDescription": "Write and check notes in Inki",
+        "developerName": "n, Inc.",
+        "category": "Productivity",
+        "capabilities": ["Read", "Write"],
+        "websiteURL": "https://inki.so",
+        "privacyPolicyURL": "https://inki.so/en/privacy",
+        "termsOfServiceURL": "https://inki.so/en/terms",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/icon.png"
+      }
+    }
+  }
+}

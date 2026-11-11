@@ -1,0 +1,20 @@
+{
+  "name": "inki",
+  "version": "1.0.0",
+  "description": "Write in Inki from Claude Code: move a draft into an Inki note, run Inki's check, fix what you agree with, and keep going after you edit the note in Inki.",
+  "author": {
+    "name": "n, Inc.",
+    "email": "contact@inki.so",
+    "url": "https://inki.so"
+  },
+  "homepage": "https://inki.so",
+  "repository": "https://github.com/n-inc/inki-plugin",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "notes",
+    "editing",
+    "proofreading"
+  ],
+  "privacyPolicyUrl": "https://inki.so/en/privacy"
+}

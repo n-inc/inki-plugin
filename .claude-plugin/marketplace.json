@@ -1,0 +1,19 @@
+{
+  "name": "inki",
+  "owner": {
+    "name": "n, Inc.",
+    "email": "contact@inki.so",
+    "url": "https://inki.so"
+  },
+  "description": "The Inki plugin for Claude Code: the Inki MCP server and a skill for drafting, checking, and fixing notes in Inki.",
+  "plugins": [
+    {
+      "name": "inki",
+      "source": "./",
+      "description": "Write in Inki from Claude Code: move a draft into an Inki note, run Inki's check, fix what you agree with, and keep going after you edit the note in Inki.",
+      "homepage": "https://inki.so",
+      "repository": "https://github.com/n-inc/inki-plugin",
+      "license": "MIT"
+    }
+  ]
+}
