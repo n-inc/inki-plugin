@@ -1,5 +1,7 @@
 # Inki plugin for AI agents
 
+[日本語](README.ja.md)
+
 [Inki](https://inki.so) is a writing app for pieces you want to get right: articles, reports, proposals, press releases. You keep each draft as a note. Inki's check reads a note paragraph by paragraph and marks typos, grammar mistakes, and sentences that are hard to read, and you can edit the note in Inki on the web, Mac, iPhone, or Android.
 
 This plugin lets an AI agent such as Claude Code or Codex work on your Inki notes with you. It connects the agent to your Inki account and teaches it a way of working that keeps you in charge of the text:
@@ -67,10 +69,6 @@ The plugin contains no scripts and stores nothing on your computer beyond the si
 ## Support
 
 Questions and problems: contact@inki.so or [Inki's FAQ](https://inki.so/en/faq).
-
-## 日本語
-
-[インキ](https://inki.so) は、仕上げたい文章（記事、報告書、提案書、プレスリリース）を書くためのアプリです。下書きはノートとして置き、インキのチェックが段落ごとに誤字や文法の誤り、読みにくい文に印を付けます。この plugin を入れると、Claude Code や Codex などの AI エージェントが、あなたのインキのノートを一緒に仕上げます。下書きをノートに入れ、チェックをかけ、直すもの・残すもの・あなたにしか答えられないものに分けて見せ、頼んだ分だけ直します。インキで手を入れた後に「続けて」と頼むと、あなたの直しを読んで保ったまま続きを書きます。入れ方は上の「Install」のとおりで、インキのアカウントが要ります。
 
 ## License
 
