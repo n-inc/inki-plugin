@@ -16,7 +16,7 @@
     "com.openai": {
       "interface": {
         "displayName": "Inki",
-        "shortDescription": "Finish long writing with your AI in an editor",
+        "shortDescription": "Write and check notes in Inki",
         "developerName": "n, Inc.",
         "category": "Productivity",
         "capabilities": ["Read", "Write"],
