@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "inki",
   "version": "1.0.0",
-  "description": "Write in Inki from your coding agent: move a draft into an Inki note, run Inki's check, fix what you agree with, and keep going after you edit the note in Inki.",
+  "description": "Finish long writing with your AI in an editor built for it: your AI puts your draft in a note, runs a check, fixes only what you choose, and continues from your own edits.",
   "author": {
     "name": "n, Inc.",
     "email": "contact@inki.so",
@@ -16,7 +16,7 @@
     "com.openai": {
       "interface": {
         "displayName": "Inki",
-        "shortDescription": "Write and check notes in Inki",
+        "shortDescription": "Finish long writing with your AI in an editor",
         "developerName": "n, Inc.",
         "category": "Productivity",
         "capabilities": ["Read", "Write"],

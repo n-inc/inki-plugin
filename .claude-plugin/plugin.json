@@ -1,7 +1,7 @@
 {
   "name": "inki",
   "version": "1.0.0",
-  "description": "Write in Inki from Claude Code: move a draft into an Inki note, run Inki's check, fix what you agree with, and keep going after you edit the note in Inki.",
+  "description": "Finish long writing with Claude in an editor built for it: Claude puts your draft in a note, runs a check, fixes only what you choose, and continues from your own edits.",
   "author": {
     "name": "n, Inc.",
     "email": "contact@inki.so",

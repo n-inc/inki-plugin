@@ -5,12 +5,12 @@
     "email": "contact@inki.so",
     "url": "https://inki.so"
   },
-  "description": "The Inki plugin for Claude Code: the Inki MCP server and a skill for drafting, checking, and fixing notes in Inki.",
+  "description": "Finish long writing with Claude in an editor built for it: Claude puts your draft in a note, runs a check, fixes only what you choose, and continues from your own edits.",
   "plugins": [
     {
       "name": "inki",
       "source": "./",
-      "description": "Write in Inki from Claude Code: move a draft into an Inki note, run Inki's check, fix what you agree with, and keep going after you edit the note in Inki.",
+      "description": "Finish long writing with Claude in an editor built for it: Claude puts your draft in a note, runs a check, fixes only what you choose, and continues from your own edits.",
       "homepage": "https://inki.so",
       "repository": "https://github.com/n-inc/inki-plugin",
       "license": "MIT"
