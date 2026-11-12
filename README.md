@@ -43,6 +43,9 @@ Sign in to Inki in the browser window that opens, then start a new Codex session
 
 ### Other agents
 
+Steps for ChatGPT, Claude, and Cursor are in Inki's docs: [Use Inki from ChatGPT and Claude](https://docs.inki.so/en/features/connect-ai).
+
+
 The plugin is two pieces that other agents can use too:
 
 - The Inki MCP server at `https://inki.so/api/mcp`. Any agent that can add a remote MCP server with OAuth sign-in can connect to it.
@@ -54,7 +57,7 @@ Signing in lets the agent search and read your notes and folders, see your accou
 
 Checks count toward your plan's hourly limit of checked paragraphs, and reviews use credits from your Inki account, the same as in the Inki app. Notes you send through the agent are processed under [Inki's privacy policy](https://inki.so/en/privacy) and [terms](https://inki.so/en/terms).
 
-To disconnect, open Inki and go to Settings › Account › Connected services.
+To disconnect, open Inki and go to Settings › Account › Use Inki from ChatGPT and Claude.
 
 ## What's in this repository
 
@@ -68,7 +71,7 @@ The plugin contains no scripts and stores nothing on your computer beyond the si
 
 ## Support
 
-Questions and problems: contact@inki.so or [Inki's FAQ](https://inki.so/en/faq).
+Questions and problems: hello@inki.so or [Inki's FAQ](https://inki.so/en/faq).
 
 ## License
 

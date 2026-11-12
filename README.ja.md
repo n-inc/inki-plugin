@@ -43,6 +43,9 @@ codex mcp login inki
 
 ### ほかのエージェント
 
+ChatGPT、Claude、Cursor でのつなぎ方は、インキのドキュメントの[ChatGPTやClaudeからインキを使う](https://docs.inki.so/ja/features/connect-ai)にあります。
+
+
 この plugin は、ほかのエージェントでも使える 2 つの部品でできています。
 
 - インキの MCP サーバー `https://inki.so/api/mcp`。OAuth でサインインするリモートの MCP サーバーを足せるエージェントなら、どれでもつなげます
@@ -54,7 +57,7 @@ codex mcp login inki
 
 チェックした段落は、インキのアプリと同じく、プランの 1 時間あたりの上限に数えます。レビューはインキのアカウントのクレジットを使います。エージェントから送ったノートは、インキの[プライバシーポリシー](https://inki.so/ja/privacy)と[利用規約](https://inki.so/ja/terms)のもとで扱います。
 
-つなぐのをやめるときは、インキの「設定 › アカウント › 連携サービス」を開きます。
+つなぐのをやめるときは、インキの「設定 › アカウント › ChatGPT・Claude から使う」を開きます。
 
 ## この repository にあるもの
 
@@ -68,7 +71,7 @@ plugin にはスクリプトが無く、エージェントがサーバーにつ�
 
 ## 問い合わせ
 
-質問と不具合は contact@inki.so か、インキの[よくある質問](https://inki.so/ja/faq)へ。
+質問と不具合は hello@inki.so か、インキの[よくある質問](https://inki.so/ja/faq)へ。
 
 ## ライセンス
 
